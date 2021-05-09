@@ -1,10 +1,5 @@
-- 👋 Hi, I’m @Exetric
-- 👀 I’m interested in gameing
-- 🌱 I’m currently learning gameing
-- 💞️ I’m looking to collaborate on gameing
-- 📫 How to reach me gameing
-
-<!---
-Exetric/Exetric is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+# EXETRIC 😎😎😎😎😎😎😎😎😎😎😎😎😎
+![main](https://i.imgur.com/09R7GfA.png)
+![discord](https://i.imgur.com/CrNePFW.png)
+![reddit](https://i.imgur.com/Mflxtpi.png)
+![twitter](https://i.imgur.com/Q6r0zdA.png)
